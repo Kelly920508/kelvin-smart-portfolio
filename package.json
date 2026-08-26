@@ -1,0 +1,13 @@
+{
+  "name": "kelvin-smart-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kelvin Smart — personal portfolio site",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
