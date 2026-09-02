@@ -34,7 +34,6 @@
   .eq-bars { display: flex; align-items: flex-end; gap: 6px; height: 100%; }
   .eq-bar {
     width: 100%;
-    height: 100%;
     border-radius: 3px;
     background: linear-gradient(180deg, #F5A623 0%, #C97F13 100%);
     animation: eqmove 2.4s ease-in-out infinite;
