@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kelly920508.github.io/kelvin-smart-portfolio/sitemap.xml
+Sitemap: https://kelvin-smart.netlify.app/sitemap.xml
