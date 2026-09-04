@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kelly920508.github.io/kelvin-smart-portfolio/sitemap.xml

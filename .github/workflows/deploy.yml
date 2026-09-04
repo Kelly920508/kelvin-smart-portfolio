@@ -37,6 +37,10 @@ jobs:
           mkdir -p _site
           cp index.html _site/
           cp -r dist _site/dist
+          cp -r assets _site/assets
+          cp sitemap.xml _site/sitemap.xml
+          cp robots.txt _site/robots.txt
+          cp google267e054f0b5a01ba.html _site/google267e054f0b5a01ba.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
